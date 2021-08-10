@@ -1,6 +1,6 @@
 import axios from 'axios';//axios ayuda a conectar con el back-end mandando request
 
-const url = 'http://localhost:5000/posts';
+const url = 'https://fotos-mern-test.herokuapp.com/posts';
 
 //http verbos para conectar el back-end con el front-end
 
